@@ -25,11 +25,11 @@ SECRET_KEY = 'django-insecure-&@qxyovf7wqso@svr)4i^bz-6y^yb1t&bc#a9^ia5i)7=kq-or
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [ 'sysy.pythonanywhere.com']  # à adapter
+ALLOWED_HOSTS = [ 'Restaurents.pythonanywhere.com']  # à adapter
 
 STATIC_URL = 'static/'
 STATICFILES_DIRS = [BASE_DIR / "static"]
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+STATIC_ROOT = BASE_DIR / "staticfiles"
 # Application definition
 
 INSTALLED_APPS = [
