@@ -1,0 +1,98 @@
+{% load static %}
+{% load i18n %}
+{% get_current_language as LANGUAGE_CODE %}
+
+
+<!DOCTYPE html>
+<html lang="{{ LANGUAGE_CODE }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}SMART TECHNOLOGY{% endblock %}</title>
+
+    <!-- Lien CSS principal -->
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+
+    <!-- Icônes FontAwesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
+
+
+</head>
+<body>
+
+    <!-- Header -->
+    <header class="site-header">
+        <div class="header-container">
+            <div class="logo">SMART TECHNOLOGY</div>
+            <nav class="main-nav">
+                <ul class="nav-menu">
+                    <li><a href="{% url 'accueil' %}">{% trans "Accueil" %}</a></li>
+                    <li><a href="{% url 'qui_sommes_nous' %}">{% trans "Qui sommes-nous" %}</a></li>
+                    <li><a href="{% url 'services' %}">{% trans "Nos services" %}</a></li>
+                    <li><a href="{% url 'contact' %}">{% trans "Nous contacter" %}</a></li>
+                  <li class="sl">
+                 <form action="{% url 'set_language' %}" method="post">
+                    {% csrf_token %}
+                    <select name="language" onchange="this.form.submit()">
+                    <option value="fr" {% if LANGUAGE_CODE == 'fr' %}selected{% endif %}>Français</option>
+                     <option value="en" {% if LANGUAGE_CODE == 'en' %}selected{% endif %}>English</option>
+                     <option value="ar" {% if LANGUAGE_CODE == 'ar' %}selected{% endif %}>العربية</option>
+                    </select>
+                    </form>
+                    </li>
+
+
+                </ul>
+
+                <button class="burger-menu" onclick=" toggleMenu()
+
+                ">☰</button>
+            </nav>
+        </div>
+           <!-- Sélecteur de langue -->
+    </header>
+
+    <!-- Contenu principal -->
+    <main>
+        {% block content %}
+        <!-- Le contenu spécifique de chaque page -->
+        {% endblock %}
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="footer-content">
+            <div class="footer-logo">SMART TECHNOLOGY</div>
+
+            <div class="footer-links">
+                <a href="{% url 'accueil' %}">{% trans "Accueil" %}</a>
+                <a href="{% url 'qui_sommes_nous' %}">{% trans "Qui sommes-nous" %}</a>
+                <a href="{% url 'services' %}">{% trans "Services"%}</a>
+                <a href="{% url 'contact' %}">{% trans "Contact" %}</a>
+            </div>
+
+            <div class="footer-contact">
+                <p><i class="fas fa-phone-alt"></i> +222 34 41 00 41</p>
+                <p><i class="fas fa-envelope"></i> smartformulaire@gmail.com</p>
+                <p><i class="fas fa-map-marker-alt"></i> Nouakchott, Mauritanie</p>
+            </div>
+
+            <div class="footer-socials">
+                <a href="https://facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+            </div>
+            <a href="https://maps.app.goo.gl/81X877YzdeLcDjDXA" target="_blank">
+            {% trans "Voir l'itinéraire sur Google Maps"%}
+</a>
+
+        </div>
+
+        <div class="footer-bottom">
+            <p>&copy; 2025 SMART TECHNOLOGY – Tous droits réservés.</p>
+        </div>
+    </footer>
+    <script src="{% static 'js/scripts.js' %}" defer></script>
+
+</body>
+</html>

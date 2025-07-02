@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+
+msgid "Français"
+msgstr "الفرنسية"
+
+msgid "Anglais"
+msgstr "الإنجليزية"
+
+msgid "Arabe"
+msgstr "العربية"
+
+msgid "Nos services"
+msgstr "خدماتنا"
+
+msgid "Nous mettons notre expertise au service de votre croissance digitale avec des solutions fiables, performantes et adaptées à vos besoins."
+msgstr "نضع خبرتنا في خدمتك لدعم نموك الرقمي من خلال حلول موثوقة وفعالة ومخصصة لاحتياجاتك."
+
+msgid "Cybersécurité"
+msgstr "الأمن السيبراني"
+
+msgid "Protégez vos infrastructures contre les attaques numériques avec des systèmes de sécurité avancés."
+msgstr "احمِ بنيتك التحتية من الهجمات الرقمية باستخدام أنظمة أمان متقدمة."
+
+msgid "Maintenance"
+msgstr "الصيانة"
+
+msgid "Installation, réparation et optimisation de vos équipements informatiques pour garantir leur longévité."
+msgstr "تركيب وإصلاح وتحسين أجهزتك المعلوماتية لضمان عمر أطول وأداء أفضل."
+
+msgid "Réseaux & Télécoms"
+msgstr "الشبكات والاتصالات"
+
+msgid "Conception et déploiement de réseaux performants pour une connectivité fluide et sécurisée."
+msgstr "تصميم وتنفيذ شبكات عالية الأداء لاتصال سلس وآمن."
+
+msgid "Développement logiciel"
+msgstr "تطوير البرمجيات"
+
+msgid "Création d’applications web, mobiles et logicielles sur mesure pour booster votre productivité."
+msgstr "إنشاء تطبيقات ويب وهاتف وبرامج مخصصة لتعزيز إنتاجيتك."
+
+msgid "Accueil"
+msgstr "الرئيسية"
+
+msgid "Qui sommes-nous"
+msgstr "من نحن"
+
+msgid "Nous contacter"
+msgstr "اتصل بنا"
+
+msgid "Services"
+msgstr "الخدمات"
+
+msgid "Contact"
+msgstr "تواصل"
+
+msgid "Bienvenue chez"
+msgstr "مرحبا بكم في"
+
+msgid "SMART TECHNOLOGY est votre partenaire de confiance pour construire l’avenir numérique de la Mauritanie."
+msgstr "SMART TECHNOLOGY هي شريكك الموثوق لبناء مستقبل رقمي لموريتانيا."
+
+msgid "Nous mettons l'innovation au service de vos ambitions, avec des solutions technologiques sur mesure, modernes et performantes."
+msgstr "نضع الابتكار في خدمة طموحاتكم، من خلال حلول تقنية مخصصة، حديثة وفعالة."
+
+msgid "En savoir plus"
+msgstr "اعرف المزيد"
+
+msgid "Découvrez notre univers"
+msgstr "اكتشف عالمنا"
+
+msgid "Notre équipe"
+msgstr "فريقنا"
+
+msgid "Une équipe jeune, dynamique et ambitieuse, toujours prête à relever de nouveaux défis technologiques aux côtés de nos clients."
+msgstr "فريق شاب وديناميكي وطموح، مستعد دائمًا لمواجهة التحديات التكنولوجية الجديدة جنبًا إلى جنب مع عملائنا."
+
+msgid "Nos bureaux"
+msgstr "مكاتبنا"
+
+msgid "Des locaux modernes et fonctionnels situés au cœur de Nouakchott, pensés pour l’innovation, la collaboration et l’efficacité."
+msgstr "مكاتب عصرية وعملية في قلب نواكشوط، مصممة للابتكار والتعاون والفعالية."
+
+msgid "Nos équipements"
+msgstr "معداتنا"
+
+msgid "Nous utilisons des infrastructures technologiques de dernière génération pour garantir des prestations à haute performance."
+msgstr "نستخدم بنى تحتية تكنولوجية متطورة لضمان خدمات عالية الأداء."
+
+msgid "Sécurité de pointe"
+msgstr "أمن متطور"
+
+msgid "Nous avançons ensemble, comme une équipe parfaitement coordonnée. Chez SMART TECHNOLOGY, la sécurité est une stratégie globale."
+msgstr "نتقدم معًا كفريق منسجم تمامًا. في SMART TECHNOLOGY، الأمان هو استراتيجية شاملة."
+
+msgid "Évolution continue"
+msgstr "تطور مستمر"
+
+msgid "Avec une approche agile et progressive, nous vous accompagnons dans une croissance stable et tournée vers l'avenir."
+msgstr "من خلال نهج مرن وتدريجي، نرافقكم نحو نمو مستقر وموجه نحو المستقبل."
+
+msgid "Connectivité mondiale"
+msgstr "اتصال عالمي"
+
+msgid "Avec SMART TECHNOLOGY, vous êtes connectés au monde entier grâce à des solutions intelligentes, mobiles et interconnectées."
+msgstr "مع SMART TECHNOLOGY، أنتم متصلون بالعالم من خلال حلول ذكية، متنقلة ومترابطة."
+
+msgid "Sécurité"
+msgstr "الأمان"
+
+msgid "Nous protégeons vos données et vos infrastructures avec des solutions robustes, modernes et évolutives."
+msgstr "نحمي بياناتك وبُناك التحتية بحلول قوية وحديثة وقابلة للتطوير."
+
+msgid "Expertise"
+msgstr "الخبرة"
+
+msgid "Une équipe expérimentée, passionnée par l'innovation, qui vous accompagne vers l'excellence numérique."
+msgstr "فريق ذو خبرة، شغوف بالابتكار، يرافقكم نحو التميز الرقمي."
+
+msgid "Support"
+msgstr "الدعم"
+
+msgid "Un accompagnement humain, réactif et personnalisé à chaque étape de vos projets."
+msgstr "دعم بشري، سريع ومخصص في كل مرحلة من مراحل مشاريعكم."
+
+msgid "Pourquoi choisir"
+msgstr "لماذا تختار"
+
+msgid "Chez"
+msgstr "في"
+
+msgid ",nous ne vendons pas simplement des solutions — nous créons des expériences technologiques sur mesure qui transforment les ambitions en réussites concrètes."
+msgstr "،نحن لا نبيع حلولًا فقط — بل نبتكر تجارب تكنولوجية مخصصة تحول الطموحات إلى نجاحات ملموسة."
+
+msgid "Fondée par des passionnés de l'innovation, notre entreprise s’impose aujourd’hui comme un acteur incontournable du numérique en Mauritanie."
+msgstr "تأسست شركتنا من قبل شغوفين بالابتكار، وتُعد اليوم فاعلًا رئيسيًا في المجال الرقمي في موريتانيا."
+
+msgid "Notre mission :"
+msgstr "مهمتنا:"
+
+msgid " connecter vos idées à la technologie de demain "
+msgstr " ربط أفكاركم بتكنولوجيا الغد "
+
+msgid ", avec fiabilité, créativité et réactivité."
+msgstr "،بموثوقية وإبداع وسرعة استجابة."
+
+msgid "Chaque projet que nous accompagnons est une histoire d’écoute, de performance et d’impact durable."
+msgstr "كل مشروع نشاركه هو قصة استماع، وأداء، وتأثير مستدام."
+
+msgid "Choisir SMART TECHNOLOGY, c’est choisir un partenaire engagé à vos côtés, de la réflexion stratégique jusqu’à la mise en œuvre concrète."
+msgstr "اختيار SMART TECHNOLOGY يعني اختيار شريك ملتزم بجانبك من التفكير الاستراتيجي إلى التنفيذ الفعلي."
+
+msgid "Nos réalisations en chiffres"
+msgstr "إنجازاتنا بالأرقام"
+
+msgid "Projets réalisés"
+msgstr "مشاريع منفذة"
+msgid "Une équipe jeune, ambitieuse et passionnée par les nouvelles technologies. Notre force repose sur la collaboration, l’écoute client et la maîtrise des outils numériques modernes."
+msgstr "فريق شاب وطموح وشغوف بالتقنيات الحديثة. قوتنا تكمن في التعاون، والاستماع للعملاء، وإتقان الأدوات الرقمية الحديثة."
+
+
+msgid "Professionnels actifs"
+msgstr "مهنيون نشطون"
+
+msgid "Partenaires"
+msgstr "شركاء"
+
+msgid "Années d’expertise"
+msgstr "سنوات من الخبرة"
+
+msgid "Nos valeurs"
+msgstr "قيمنا"
+
+msgid "Mission"
+msgstr "مهمتنا"
+
+msgid "Accompagner les entreprises dans leur transformation numérique grâce à des solutions fiables, innovantes et adaptées à chaque besoin."
+msgstr "مرافقة الشركات في تحولها الرقمي من خلال حلول موثوقة ومبتكرة ومناسبة لكل حاجة."
+
+msgid "Valeurs"
+msgstr "القيم"
+
+msgid "Qualité, innovation, réactivité et confiance sont les fondements de notre engagement au quotidien."
+msgstr "الجودة والابتكار والسرعة والثقة هي أساس التزامنا اليومي."
+
+msgid "Vision"
+msgstr "رؤيتنا"
+
+msgid "Devenir un acteur technologique incontournable en Mauritanie et un partenaire de référence en Afrique de l’Ouest."
+msgstr "أن نصبح فاعلًا تقنيًا رئيسيًا في موريتانيا وشريكًا مرجعيًا في غرب إفريقيا."
+msgid "Contactez-nous"
+msgstr "اتصل بنا"
+
+msgid "Une question, une demande de service ou un partenariat ? Notre équipe est à votre écoute."
+msgstr "هل لديكم سؤال، طلب خدمة أو شراكة؟ فريقنا في خدمتكم."
+
+msgid "Nom"
+msgstr "الاسم"
+
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+msgid "Sujet"
+msgstr "الموضوع"
+
+msgid "Message"
+msgstr "الرسالة"
+
+msgid "Envoyer"
+msgstr "إرسال"
+
+msgid "Nos coordonnées"
+msgstr "معلومات الاتصال الخاصة بنا"
+msgid "Voir l'itinéraire sur Google Maps"
+msgstr "عرض الاتجاهات على خرائط جوجل"
+msgid "Votre message a bien été envoyé."
+msgstr "تم إرسال رسالتك بنجاح."
+
+msgid "Confirmation"
+msgstr "تأكيد"

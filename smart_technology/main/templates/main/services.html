@@ -1,0 +1,39 @@
+
+
+{% extends 'main/base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block title %}Nos services - SMART TECHNOLOGY{% endblock %}
+
+{% block content %}
+
+<section id="services" class="section services animated fade-in">
+    <h1>{% trans "Nos services" %}</h1>
+    <p>{% trans "Nous mettons notre expertise au service de votre croissance digitale avec des solutions fiables, performantes et adaptées à vos besoins." %}</p>
+    <!-- Services sous forme de slider horizontal -->
+    <div class="services-container horizontal-scroll">
+        <div class="service-card">
+            <i class="fas fa-shield-alt icon"></i>
+            <h2>{% trans "Cybersécurité" %}</h2>
+            <p>{% trans "Protégez vos infrastructures contre les attaques numériques avec des systèmes de sécurité avancés."%}</p>
+        </div>
+        <div class="service-card">
+            <i class="fas fa-tools icon"></i>
+            <h2>{% trans "Maintenance" %}</h2>
+            <p>{% trans "Installation, réparation et optimisation de vos équipements informatiques pour garantir leur longévité." %}</p>
+        </div>
+        <div class="service-card">
+            <i class="fas fa-network-wired icon"></i>
+            <h2>{% trans "Réseaux & Télécoms"%}</h2>
+            <p>{%  trans "Conception et déploiement de réseaux performants pour une connectivité fluide et sécurisée."%}</p>
+        </div>
+        <div class="service-card">
+            <i class="fas fa-laptop-code icon"></i>
+            <h2>{% trans "Développement logiciel"%}</h2>
+            <p>{%  trans "Création d’applications web, mobiles et logicielles sur mesure pour booster votre productivité." %}</p>
+        </div>
+    </div>
+</section>
+
+{% endblock %}

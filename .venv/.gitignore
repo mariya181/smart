@@ -1,0 +1,22 @@
+# Fichiers Python inutiles
+_pycache_/
+*.py[cod]
+*.log
+
+# Base de données SQLite
+*.sqlite3
+db.sqlite3
+
+# Environnement virtuel
+venv/
+.venv/
+
+# Fichiers de config perso
+*.env
+
+# Fichiers statiques collectés
+/static/
+
+# Cache et autres
+*.DS_Store
+*.idea/

@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+msgid "Français"
+msgstr "French"
+
+msgid "Anglais"
+msgstr "English"
+
+msgid "Arabe"
+msgstr "Arabic"
+
+msgid "Nos services"
+msgstr "Our Services"
+
+msgid "Nous mettons notre expertise au service de votre croissance digitale avec des solutions fiables, performantes et adaptées à vos besoins."
+msgstr "We put our expertise at the service of your digital growth with reliable, high-performance and tailored solutions."
+
+msgid "Cybersécurité"
+msgstr "Cybersecurity"
+
+msgid "Protégez vos infrastructures contre les attaques numériques avec des systèmes de sécurité avancés."
+msgstr "Protect your infrastructure from digital threats with advanced security systems."
+
+msgid "Maintenance"
+msgstr "Maintenance"
+
+msgid "Installation, réparation et optimisation de vos équipements informatiques pour garantir leur longévité."
+msgstr "Installation, repair and optimization of your IT equipment to ensure longevity."
+
+msgid "Réseaux & Télécoms"
+msgstr "Networks & Telecoms"
+
+msgid "Conception et déploiement de réseaux performants pour une connectivité fluide et sécurisée."
+msgstr "Design and deployment of high-performance networks for smooth and secure connectivity."
+
+msgid "Développement logiciel"
+msgstr "Software Development"
+
+msgid "Création d’applications web, mobiles et logicielles sur mesure pour booster votre productivité."
+msgstr "Custom web, mobile and software applications to boost your productivity."
+
+msgid "Accueil"
+msgstr "Home"
+
+msgid "Qui sommes-nous"
+msgstr "About us"
+
+msgid "Nous contacter"
+msgstr "Contact us"
+
+msgid "Services"
+msgstr "Services"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Bienvenue chez"
+msgstr "Welcome to"
+
+msgid "SMART TECHNOLOGY est votre partenaire de confiance pour construire l’avenir numérique de la Mauritanie."
+msgstr "SMART TECHNOLOGY is your trusted partner to build the digital future of Mauritania."
+
+msgid "Nous mettons l'innovation au service de vos ambitions, avec des solutions technologiques sur mesure, modernes et performantes."
+msgstr "We put innovation at the service of your ambitions, with modern, high-performance, and tailor-made technology solutions."
+
+msgid "En savoir plus"
+msgstr "Learn more"
+
+msgid "Découvrez notre univers"
+msgstr "Discover our world"
+
+msgid "Notre équipe"
+msgstr "Our Team"
+
+msgid "Une équipe jeune, dynamique et ambitieuse, toujours prête à relever de nouveaux défis technologiques aux côtés de nos clients."
+msgstr "A young, dynamic, and ambitious team, always ready to take on new technological challenges alongside our clients."
+
+msgid "Nos bureaux"
+msgstr "Our Offices"
+
+msgid "Des locaux modernes et fonctionnels situés au cœur de Nouakchott, pensés pour l’innovation, la collaboration et l’efficacité."
+msgstr "Modern and functional premises located in the heart of Nouakchott, designed for innovation, collaboration, and efficiency."
+
+msgid "Nos équipements"
+msgstr "Our Equipment"
+
+msgid "Nous utilisons des infrastructures technologiques de dernière génération pour garantir des prestations à haute performance."
+msgstr "We use next-generation technological infrastructures to guarantee high-performance services."
+
+msgid "Sécurité de pointe"
+msgstr "Cutting-edge Security"
+
+msgid "Nous avançons ensemble, comme une équipe parfaitement coordonnée. Chez SMART TECHNOLOGY, la sécurité est une stratégie globale."
+msgstr "We move forward together, as a perfectly coordinated team. At SMART TECHNOLOGY, security is a global strategy."
+
+msgid "Évolution continue"
+msgstr "Continuous Improvement"
+
+msgid "Avec une approche agile et progressive, nous vous accompagnons dans une croissance stable et tournée vers l'avenir."
+msgstr "With an agile and progressive approach, we support you in stable, forward-looking growth."
+
+msgid "Connectivité mondiale"
+msgstr "Global Connectivity"
+
+msgid "Avec SMART TECHNOLOGY, vous êtes connectés au monde entier grâce à des solutions intelligentes, mobiles et interconnectées."
+msgstr "With SMART TECHNOLOGY, you are connected to the entire world thanks to intelligent, mobile, and interconnected solutions."
+
+msgid "Sécurité"
+msgstr "Security"
+
+msgid "Nous protégeons vos données et vos infrastructures avec des solutions robustes, modernes et évolutives."
+msgstr "We protect your data and infrastructures with robust, modern, and scalable solutions."
+
+msgid "Expertise"
+msgstr "Expertise"
+
+msgid "Une équipe expérimentée, passionnée par l'innovation, qui vous accompagne vers l'excellence numérique."
+msgstr "An experienced team, passionate about innovation, guiding you toward digital excellence."
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Un accompagnement humain, réactif et personnalisé à chaque étape de vos projets."
+msgstr "A responsive, personalized, and human support at each stage of your project."
+
+msgid "Pourquoi choisir"
+msgstr "Why choose"
+
+msgid "Chez"
+msgstr "At"
+
+msgid ",nous ne vendons pas simplement des solutions — nous créons des expériences technologiques sur mesure qui transforment les ambitions en réussites concrètes."
+msgstr ", we don’t just sell solutions — we craft tailored technological experiences that turn ambitions into real success."
+
+msgid "Fondée par des passionnés de l'innovation, notre entreprise s’impose aujourd’hui comme un acteur incontournable du numérique en Mauritanie."
+msgstr "Founded by innovation enthusiasts, our company today stands out as a key player in the digital field in Mauritania."
+
+msgid "Notre mission :"
+msgstr "Our mission:"
+
+msgid " connecter vos idées à la technologie de demain "
+msgstr " connecting your ideas to tomorrow's technology "
+
+msgid ", avec fiabilité, créativité et réactivité."
+msgstr ", with reliability, creativity, and responsiveness."
+
+msgid "Chaque projet que nous accompagnons est une histoire d’écoute, de performance et d’impact durable."
+msgstr "Every project we support is a story of listening, performance, and lasting impact."
+
+msgid "Choisir SMART TECHNOLOGY, c’est choisir un partenaire engagé à vos côtés, de la réflexion stratégique jusqu’à la mise en œuvre concrète."
+msgstr "Choosing SMART TECHNOLOGY means choosing a committed partner by your side, from strategic thinking to concrete implementation."
+
+msgid "Une équipe jeune, ambitieuse et passionnée par les nouvelles technologies. Notre force repose sur la collaboration, l’écoute client et la maîtrise des outils numériques modernes."
+msgstr "A young, ambitious team passionate about new technologies. Our strength lies in collaboration, client focus, and mastery of modern digital tools."
+
+msgid "Nos réalisations en chiffres"
+msgstr "Our achievements in numbers"
+
+msgid "Projets réalisés"
+msgstr "Completed projects"
+
+msgid "Professionnels actifs"
+msgstr "Active professionals"
+
+msgid "Partenaires"
+msgstr "Partners"
+
+msgid "Années d’expertise"
+msgstr "Years of expertise"
+
+msgid "Nos valeurs"
+msgstr "Our values"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Accompagner les entreprises dans leur transformation numérique grâce à des solutions fiables, innovantes et adaptées à chaque besoin."
+msgstr "Support businesses in their digital transformation with reliable, innovative solutions tailored to every need."
+
+msgid "Valeurs"
+msgstr "Values"
+
+msgid "Qualité, innovation, réactivité et confiance sont les fondements de notre engagement au quotidien."
+msgstr "Quality, innovation, responsiveness, and trust are the pillars of our daily commitment."
+
+msgid "Vision"
+msgstr "Vision"
+
+msgid "Devenir un acteur technologique incontournable en Mauritanie et un partenaire de référence en Afrique de l’Ouest."
+msgstr "Become a major tech player in Mauritania and a leading partner in West Africa."
+msgid "Contactez-nous"
+msgstr "Contact us"
+
+msgid "Une question, une demande de service ou un partenariat ? Notre équipe est à votre écoute."
+msgstr "A question, a service request or a partnership? Our team is here to help."
+
+msgid "Nom"
+msgstr "Name"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Sujet"
+msgstr "Subject"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Envoyer"
+msgstr "Send"
+
+msgid "Nos coordonnées"
+msgstr "Our contact details"
+msgid "Voir l'itinéraire sur Google Maps"
+msgstr "View directions on Google Maps"
+msgid "Votre message a bien été envoyé."
+msgstr "Your message has been successfully sent."
+
+msgid "Confirmation"
+msgstr "Confirmation"

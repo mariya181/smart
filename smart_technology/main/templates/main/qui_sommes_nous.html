@@ -1,0 +1,75 @@
+{% extends 'main/base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block title %}Qui sommes-nous - SMART TECHNOLOGY{% endblock %}
+
+{% block content %}
+
+<section id="qui-sommes-nous" class="section qui-sommes-nous animated fade-in">
+
+    <!-- Présentation -->
+    <div class="intro">
+        <h1>{% trans "Qui sommes-nous" %}</h1>
+        <p class="joli">
+{% trans "Chez" %} <strong>{% trans "SMART TECHNOLOGY" %}</strong>{%  trans ",nous ne vendons pas simplement des solutions — nous créons des expériences technologiques sur mesure qui transforment les ambitions en réussites concrètes." %}
+{% trans "Fondée par des passionnés de l'innovation, notre entreprise s’impose aujourd’hui comme un acteur incontournable du numérique en Mauritanie." %}
+{% trans "Notre mission :" %} <em>{% trans  " connecter vos idées à la technologie de demain "%}</em>{% trans ", avec fiabilité, créativité et réactivité."%}
+{% trans "Chaque projet que nous accompagnons est une histoire d’écoute, de performance et d’impact durable." %}
+{% trans "Choisir SMART TECHNOLOGY, c’est choisir un partenaire engagé à vos côtés, de la réflexion stratégique jusqu’à la mise en œuvre concrète." %}</p>
+
+    </div>
+
+    <!-- Équipe -->
+    <div class="team-section_animated_slide-up">
+        <h2>{% trans "Notre équipe" %}</h2>
+        <p>{%trans "Une équipe jeune, ambitieuse et passionnée par les nouvelles technologies. Notre force repose sur la collaboration, l’écoute client et la maîtrise des outils numériques modernes." %}</p>
+        <img src="{% static 'images/equipe.jpg' %}" alt="Photo de l'équipe SMART TECHNOLOGY" class="team-photo">
+    </div>
+
+    <!-- Statistiques avec compteurs dynamiques -->
+    <div class="stats-section animated fade-in">
+        <h2>{% trans "Nos réalisations en chiffres"%}</h2>
+        <div class="stats">
+            <div class="stat">
+                <span class="number" data-target="50">0</span>
+                <p>{% trans "Projets réalisés" %}</p>
+            </div>
+            <div class="stat">
+                <span class="number" data-target="20">0</span>
+                <p>{% trans "Professionnels actifs"%}</p>
+            </div>
+            <div class="stat">
+                <span class="number" data-target="10">0</span>
+                <p>{% trans "Partenaires"%}</p>
+            </div>
+            <div class="stat">
+                <span class="number" data-target="5">0</span>
+                <p>{% trans "Années d’expertise"%}</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Valeurs -->
+    <div class="values-section animated slide-up">
+        <h2>{% trans "Nos valeurs" %}</h2>
+
+        <div class="value">
+            <h3>🎯 {% trans "Mission"%}</h3>
+            <p>{% trans "Accompagner les entreprises dans leur transformation numérique grâce à des solutions fiables, innovantes et adaptées à chaque besoin."%}</p>
+        </div>
+
+        <div class="value">
+            <h3>{% trans "Valeurs" %}</h3>
+            <p>{% trans "Qualité, innovation, réactivité et confiance sont les fondements de notre engagement au quotidien." %}</p>
+        </div>
+
+        <div class="value">
+            <h3>🚀{% trans "Vision" %}</h3>
+            <p>{% trans "Devenir un acteur technologique incontournable en Mauritanie et un partenaire de référence en Afrique de l’Ouest." %}</p>
+        </div>
+    </div>
+
+</section>
+
+{% endblock %}

@@ -1,0 +1,19 @@
+<!-- confirmation.html -->
+{% load static %}
+{% load i18n %}
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>{% trans "Confirmation" %}</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <div class="confirmation-message" style="text-align: center; padding: 80px 20px;">
+        <h2>{% trans "Votre message a bien été envoyé." %}</h2>
+        <form action="{% url 'accueil' %}">
+            <button class="cta-button" type="submit" style="margin-top: 20px;">OK</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,95 @@
+{% extends 'main/base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block title %}Accueil - SMART TECHNOLOGY{% endblock %}
+
+{% block content %}
+
+<!-- Section d'accueil avec image de fond -->
+<section id="accueil" class="section accueil">
+    <div class="accueil-content animated fade-in">
+        <h1 class="main-title">{% trans "Bienvenue chez"%} <span class="highlight"> SMART TECHNOLOGY</span></h1>
+        <p class="slogan">
+            {% trans "SMART TECHNOLOGY est votre partenaire de confiance pour construire l’avenir numérique de la Mauritanie." %}
+            {% trans "Nous mettons l'innovation au service de vos ambitions, avec des solutions technologiques sur mesure, modernes et performantes." %}
+        </p>
+
+        <button class="cta-button" onclick="window.location.href='{% url 'qui_sommes_nous' %}'">
+            {% trans "En savoir plus" %}
+        </button>
+    </div>
+</section>
+<section id="accueils" class="section valeurs-illustrées">
+
+  <h2 class="carousel-title">{% trans "Découvrez notre univers" %}</h2>
+
+  <div class="carousel-header">
+    <button class="carousel-btn left" onclick="scrollCarousel(-1)">&#10094;</button>
+    <button class="carousel-btn right" onclick="scrollCarousel(1)">&#10095;</button>
+  </div>
+
+  <div class="valeurs-container" id="carouselTrack">
+    <div class="valeur">
+      <img src="{% static 'images/equipe.jpg' %}" alt="Notre équipe">
+      <h3>{% trans "Notre équipe" %}</h3>
+      <p>{% trans "Une équipe jeune, dynamique et ambitieuse, toujours prête à relever de nouveaux défis technologiques aux côtés de nos clients."%}</p>
+    </div>
+
+    <div class="valeur">
+      <img src="{% static 'images/blue.jpg' %}" alt="Nos bureaux">
+      <h3>{% trans "Nos bureaux"%}</h3>
+      <p>{%  trans "Des locaux modernes et fonctionnels situés au cœur de Nouakchott, pensés pour l’innovation, la collaboration et l’efficacité."%}</p>
+    </div>
+
+    <div class="valeur">
+      <img src="{% static 'images/equipement.jpg' %}" alt="Nos équipements">
+      <h3>{% trans "Nos équipements" %}</h3>
+      <p>{% trans "Nous utilisons des infrastructures technologiques de dernière génération pour garantir des prestations à haute performance." %}</p>
+    </div>
+
+    <div class="valeur">
+      <img src="{% static 'images/sic1.jpg' %}" alt="Sécurité de pointe">
+      <h3>{% trans "Sécurité de pointe"%}</h3>
+      <p>{%  trans "Nous avançons ensemble, comme une équipe parfaitement coordonnée. Chez SMART TECHNOLOGY, la sécurité est une stratégie globale." %}</p>
+    </div>
+
+    <div class="valeur">
+      <img src="{% static 'images/evolution.jpg' %}" alt="Évolution continue">
+      <h3>{% trans "Évolution continue"%}</h3>
+      <p>{% trans "Avec une approche agile et progressive, nous vous accompagnons dans une croissance stable et tournée vers l'avenir." %}</p>
+    </div>
+
+    <div class="valeur">
+      <img src="{% static 'images/glope1.jpg' %}" alt="Connectivité mondiale">
+      <h3>{% trans "Connectivité mondiale"%}</h3>
+      <p>{% trans "Avec SMART TECHNOLOGY, vous êtes connectés au monde entier grâce à des solutions intelligentes, mobiles et interconnectées." %}</p>
+    </div>
+  </div>
+
+</section>
+
+
+<!-- Section points forts -->
+<section id="features" class="section features animated slide-up">
+    <h2 class="section-title">{% trans "Pourquoi choisir" %} <span class="highlight">SMART TECHNOLOGY</span> ?</h2>
+    <div class="features-container">
+        <div class="feature">
+            <i class="fas fa-shield-alt icon"></i>
+            <h3>{% trans "Sécurité" %}</h3>
+            <p>{% trans "Nous protégeons vos données et vos infrastructures avec des solutions robustes, modernes et évolutives." %}</p>
+        </div>
+        <div class="feature">
+            <i class="fas fa-cogs icon"></i>
+            <h3>{% trans "Expertise" %}</h3>
+            <p>{%  trans "Une équipe expérimentée, passionnée par l'innovation, qui vous accompagne vers l'excellence numérique." %}</p>
+        </div>
+        <div class="feature">
+            <i class="fas fa-users icon"></i>
+            <h3>{% trans "Support"%}</h3>
+            <p>{% trans "Un accompagnement humain, réactif et personnalisé à chaque étape de vos projets." %}</p>
+        </div>
+    </div>
+</section>
+
+{% endblock %}

@@ -1,0 +1,48 @@
+{% extends 'main/base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block title %}Contact - SMART TECHNOLOGY{% endblock %}
+
+{% block content %}
+<section id="contact" class="section contact animated fade-in">
+    <div class="contact-header">
+        <h1>{% trans "Contactez-nous" %}</h1>
+        <p>{% trans "Une question, une demande de service ou un partenariat ? Notre équipe est à votre écoute." %}</p>
+    </div>
+
+    <!-- Formulaire de contact -->
+    <form action="{% url 'contact' %}" method="POST" class="contact-form">
+         {% csrf_token %}
+        <label for="nom">{% trans "Nom" %} :</label>
+        <input type="text" id="nom" name="nom" placeholder="Votre nom" required>
+
+        <label for="email">{% trans "Email"%} :</label>
+        <input type="email" id="email" name="email" placeholder="Votre email" required>
+
+        <label for="sujet">{% trans "Sujet" %} :</label>
+        <input type="text" id="sujet" name="sujet" placeholder="Sujet" required>
+
+        <label for="message">{% trans "Message"%} :</label>
+        <textarea id="message" name="message" placeholder="Votre message" rows="5" required></textarea>
+
+        <button type="submit" class="cta-button">{% trans "Envoyer" %}</button>
+    </form>
+
+    <!-- Coordonnées -->
+    <div class="contact-info">
+        <h2>{% trans "Nos coordonnées" %}</h2>
+        <p><i class="fas fa-envelope"></i> smartformulaire@gmail.com</p>
+        <p><i class="fas fa-phone-alt"></i> +222 34 41 00 41</p>
+        <p><i class="fas fa-map-marker-alt"></i> Nouakchott, Mauritanie</p>
+
+        <div class="social-icons">
+            <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+
