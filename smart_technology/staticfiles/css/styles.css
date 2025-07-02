@@ -1,0 +1,382 @@
+/* Style général pour touts les pages */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+   background: url("/static/images/fond2.jpg") no-repeat center center;
+  background-size: cover;
+  position: relative;
+
+}
+
+/* En-tête (Header) */
+header {
+  background-color: #002147;
+  color: #ffffff;
+  padding: 1em;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+header .header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header .logo {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.nav-menu {
+  list-style: none;
+  display: flex;
+  gap: 1em;
+  margin: 0;
+  padding: 0;
+  transition: max-height 0.3s ease-in-out;
+}
+
+.nav-menu li a {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.nav-menu li a:hover {
+  color: #e49c18;
+}
+
+.burger-menu {
+  display: none;
+  font-size: 1.5em;
+  background: none;
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+/* Section générale */
+.section {
+  padding: 2em;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  margin-bottom: 1em;
+  color: rgb(0, 234, 255);
+}
+
+/* Carrousel */
+.carousel {
+  display: flex;
+  overflow: auto;
+  gap: 1em;
+  padding: 1em 0;
+}
+
+.carousel img {
+  width: 80%;
+  max-width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Formulate de contact */
+.contact-form {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 0.5em;
+  margin-bottom: 1em;
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+}
+
+.contact-form button {
+  background-color: #002147;
+  color: #ffffff;
+  border: none;
+  padding: 0.75em 1.5em;
+  border-radius: 4px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.contact-form button:hover {
+  background-color: #da9920;
+}
+
+/* Statuesque */
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5em;
+  justify-content: center;
+}
+
+.stat {
+  background-color: #002147;
+  color: white;
+  padding: 1em;
+  border-radius: 8px;
+  flex: 1 1 200px;
+  max-width: 300px;
+}
+
+.stat .number {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+/* Section Services */
+.services-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  justify-content: center;
+}
+
+.service {
+  background-color: #fff;
+  padding: 1.5em;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
+  flex: 1 1 200px;
+  text-align: left;
+}
+
+.service h2 {
+  margin-top: 0;
+  color: #002147;
+}
+
+.service p {
+  color: #666;
+}
+
+/* Pied de page (Footer) */
+footer {
+  background-color: #002147;
+  color: #ffffff;
+  text-align: center;
+  padding: 1em;
+  margin-top: 2em;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .nav-menu {
+    display: none;
+    flex-direction: column;
+    background-color: #002147;
+    padding: 1em;
+  }
+
+  .nav-menu.active {
+    display: flex;
+  }
+
+  .burger-menu {
+    display: block;
+  }
+
+  .services-container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+.cta-button {
+  background-color: #002147;
+  color: #ffffff;
+  border: none;
+  padding: 0.75em 1.5em;
+  border-radius: 4px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+  background-color: #00eaff;
+}
+.joli{
+  font-family: Arial, sans-serif;
+  color: #ffffff;
+  margin: auto;
+
+
+}
+
+.joli{
+  width: 60%;
+}
+
+
+#accueil ,#features,#accueils{
+  background: url("/static/images/fond2.jpg") no-repeat center center;
+  background-size: cover;
+  position: relative;
+ color:white;
+}
+.intro,.team-section_animated_slide-up {
+  background: url("/static/images/fond2.jpg") no-repeat center center;
+  background-size: cover;
+  position: relative;
+ color:white;
+
+}
+.carousel-section {
+  margin-top: 3em;
+}
+
+.carousel-title {
+  text-align: center;
+  font-size: 1.8em;
+  color: #00eaff;
+  margin-bottom: 0.5em;
+}
+
+.carousel-header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 0.5em;
+  padding-right: 2em;
+  margin-bottom: 1em;
+}
+
+.carousel-btn {
+  font-size: 1.5em;
+  background: transparent;
+  border: none;
+  color: #6c63ff;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.carousel-btn:hover {
+  transform: scale(1.3);
+}
+
+
+/* Permet à la section .valeurs-container d'être un carrousel horizontal */
+.valeurs-container {
+  display: flex;
+  gap: 1em;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  padding: 1em 0;
+}
+.valeurs-container::-webkit-scrollbar {
+  display: none;
+}
+.valeurs-container {
+  -ms-overflow-style: none;  /* IE + Edge */
+  scrollbar-width: none;     /* Firefox */
+}
+
+
+/* Garde les cartes sur une seule ligne */
+.valeur {
+  flex: 0 0 auto;
+  min-width: 220px;
+  max-width: 220px;
+  background: #ffffff;
+  color: #002147;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  padding:  0.7em;
+  text-align: center;
+  margin: 0 0.5em;
+}
+
+
+/* Images à l'intérieur des .valeur */
+.valeur img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 1em;
+}
+.valeur {
+  max-height: 300px; /* tu peux ajuster (ex : 250px, 280px...) */
+  overflow: hidden;  /* pour cacher le texte qui dépasse */
+}
+.valeur p {
+  font-size: 0.8em;
+  line-height: 1.2em;
+  margin: 0.3em 0;
+}
+.valeur {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.valeur::-webkit-scrollbar {
+  width: 5px;
+}
+.valeur::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 5px;
+}
+
+.main-title{
+  color: #ffffff ;
+}
+.footer-contact,.footer-links{
+  color: #6c63ff;
+
+}
+.footer-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  align-items: center;
+
+}
+a{
+  color: #ffffff;
+}
+.nav-menu .sl {
+  display: flex;
+  align-items: center;
+}
+
+.nav-menu .sl select {
+  padding: 0.4em 0.8em;
+  border-radius: 6px;
+  border: 1px solid #6c63ff;
+  background-color: rgba(0, 14, 71, 0.85);
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 0.9em;
+  font-family: Arial, sans-serif;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.nav-menu .sl select:hover {
+  background-color: #24397c;
+  border-color: rgb(0, 234, 255);
+}
+
+

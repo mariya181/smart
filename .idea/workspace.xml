@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc79bdb0-3c45-417f-85ce-4949595f6695" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SMART-TECH.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/stylesheetLinters/stylelint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_technology/smart_technology/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/smart_technology/smart_technology/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2yvjoca7vHGts4k0xajhAU1gbeT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.views.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/pc/PycharmProjects/SMART-TECH/smart_technology/main/templates/main/accueil.html&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\PycharmProjects\SMART-TECH" />
+      <recent name="C:\Users\pc\PycharmProjects\SMART-TECH\smart_technology" />
+      <recent name="C:\Users\pc\PycharmProjects\SMART-TECH\smart_technology\main\locale\fr\LC_MESSAGES" />
+      <recent name="C:\Users\pc\PycharmProjects\SMART-TECH\smart_technology\main\locale" />
+      <recent name="C:\Users\pc\PycharmProjects\SMART-TECH\smart_technology\main\static\images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc79bdb0-3c45-417f-85ce-4949595f6695" name="Changes" comment="" />
+      <created>1750722119094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750722119094</updated>
+      <workItem from="1750722120001" duration="4139000" />
+      <workItem from="1750755612720" duration="9559000" />
+      <workItem from="1750767262529" duration="2586000" />
+      <workItem from="1750772328656" duration="259000" />
+      <workItem from="1750772757584" duration="1770000" />
+      <workItem from="1750873247603" duration="20859000" />
+      <workItem from="1750934568255" duration="3600000" />
+      <workItem from="1750938414093" duration="5677000" />
+      <workItem from="1750958605538" duration="21260000" />
+      <workItem from="1751016025584" duration="5878000" />
+      <workItem from="1751027859944" duration="5239000" />
+      <workItem from="1751037487212" duration="12943000" />
+      <workItem from="1751103700800" duration="11758000" />
+      <workItem from="1751121545392" duration="5655000" />
+      <workItem from="1751139344357" duration="1111000" />
+      <workItem from="1751142041022" duration="12005000" />
+      <workItem from="1751214825675" duration="130000" />
+      <workItem from="1751215071537" duration="7000" />
+      <workItem from="1751218391236" duration="17000" />
+      <workItem from="1751218454992" duration="16000" />
+      <workItem from="1751221475861" duration="84000" />
+      <workItem from="1751221685495" duration="20000" />
+      <workItem from="1751222072049" duration="50000" />
+      <workItem from="1751222761716" duration="43000" />
+      <workItem from="1751228680921" duration="84000" />
+      <workItem from="1751230912941" duration="62000" />
+      <workItem from="1751231319008" duration="15000" />
+      <workItem from="1751283421310" duration="43000" />
+      <workItem from="1751284116348" duration="61000" />
+      <workItem from="1751285775020" duration="28000" />
+      <workItem from="1751304744134" duration="73000" />
+      <workItem from="1751368264102" duration="8446000" />
+      <workItem from="1751383575482" duration="3769000" />
+      <workItem from="1751454050715" duration="631000" />
+      <workItem from="1751467368598" duration="1080000" />
+      <workItem from="1751476241930" duration="8138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SMART_TECH$views.coverage" NAME="views Coverage Results" MODIFIED="1750773816067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/smart_technology/main" />
+  </component>
+</project>
