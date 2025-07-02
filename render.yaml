@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: smart_technology
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn smart_technology.wsgi
+    envVars:
+      - key: DJANGO_SETTINGS_MODULE
+        value: smart_technology.settings
+      - key: SECRET_KEY
+        value: django-insecure-&@qxyovf7wqso@svr)4i^bz-6y^yb1t&bc#a9^ia5i)7=kq-or
+      - key: DEBUG
+        value: "False"
