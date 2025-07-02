@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="cc79bdb0-3c45-417f-85ce-4949595f6695" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_technology/main/templates/main/accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/smart_technology/main/templates/main/accueil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_technology/main/templates/main/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/smart_technology/main/templates/main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_technology/main/templates/main/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/smart_technology/main/templates/main/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_technology/main/templates/main/qui_sommes_nous.html" beforeDir="false" afterPath="$PROJECT_DIR$/smart_technology/main/templates/main/qui_sommes_nous.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_technology/main/templates/main/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/smart_technology/main/templates/main/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +125,7 @@
       <workItem from="1751383575482" duration="3769000" />
       <workItem from="1751454050715" duration="631000" />
       <workItem from="1751467368598" duration="1080000" />
-      <workItem from="1751476241930" duration="9966000" />
+      <workItem from="1751476241930" duration="11352000" />
     </task>
     <servers />
   </component>
