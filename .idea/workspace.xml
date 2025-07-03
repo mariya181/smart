@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc79bdb0-3c45-417f-85ce-4949595f6695" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Profile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/render.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smart_technology/smart_technology/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/smart_technology/smart_technology/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +46,7 @@
     "Python.views.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -126,7 +123,8 @@
       <workItem from="1751454050715" duration="631000" />
       <workItem from="1751467368598" duration="1080000" />
       <workItem from="1751476241930" duration="12264000" />
-      <workItem from="1751497201881" duration="1575000" />
+      <workItem from="1751497201881" duration="2918000" />
+      <workItem from="1751554801913" duration="1303000" />
     </task>
     <servers />
   </component>
